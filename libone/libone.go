@@ -1,9 +1,9 @@
 package libone
 
 func Name() string {
-	return "libone"
+	return "libone/v4"
 }
 
 func Version() string {
-	return "0.0.5"
+	return "4.0.0"
 }

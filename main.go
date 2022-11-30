@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"runtime/debug"
 
-	"github.com/matheusd/examplemultimod/libone"
+	"github.com/matheusd/examplemultimod/libone/v4"
 	"github.com/matheusd/examplemultimod/libtwo"
 )
 

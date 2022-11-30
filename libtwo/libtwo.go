@@ -1,7 +1,7 @@
 package libtwo
 
 import (
-	"github.com/matheusd/examplemultimod/libone"
+	"github.com/matheusd/examplemultimod/libone/v4"
 )
 
 func Name() string {
